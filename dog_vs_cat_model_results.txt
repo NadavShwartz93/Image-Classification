@@ -1,0 +1,3 @@
+CNN Error: 50.13%
+Loss: 0.75
+Accuracy: 50%
